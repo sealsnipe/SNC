@@ -1,0 +1,11 @@
+ID	TAG	CLONG	RGB	LeaderTrait	LederName Trait1	Trait2	Trait3	Trait4	Trait5	OwnedStates	CoreStates	stability	war_support factories population
+1	S01	Baden-Württemberg	154,205,50	wirtschaftswunder_baden	Wilhelm_II_von_Baden	trait1	trait2	trait3	trait4	trait5			0.6	0.1	15,3	4.5
+2	S02	Bayern	0,178,238	bayerische_größe	Heinrich_Held								0.6	0.1	15,3	4.5
+3	S03	Brandenburg	139,90,0	brandenburger_tor_vision	Wilhelm_von_Leeb								0.6	0.1	15,3	4.5
+4	S04	Hannover	155,205,155	königliches_erbe	Ernest_Augustus_Herzog_von_Cumberland_und_Teviotdale								0.6	0.1	15,3	4.5
+5	S05	Lothringen	104,131,139	lothringer_wirtschafts_tradition	Pierre-Étienne_Flandin								0.6	0.1	15,3	4.5
+6	S06	Nordrhein-Westfalen	105,105,105	ruhrgebiet_industrie_power	Konrad_Adenauer								0.6	0.1	15,3	4.5
+7	S07	Pommern	205,215,0	pommern_sche_kraft	Erich_von_Manstein								0.6	0.1	15,3	4.5
+8	S08	Preussen	139,139,131	preussische_strategie	Hermann_Göring								0.6	0.1	15,3	4.5
+9	S09	Schleswig-Holstein	205,102,0	norddeutsche_widerstandskraft	Carl_Wilhelm_Meyer								0.6	0.1	15,3	4.5
+10	S10	Schlesien234	72,61,139	schlesische_effizienz	Grafin_von_Brockdorff-Rantzau								0.6	0.1	15,3	4.5
